@@ -126,7 +126,7 @@ python -c "from visualise import plot_dashboard; plot_dashboard()"
 
 ## 🔍 Sample API Endpoint
 
-**Street crimes near Brighton — September 2024**
+**Street crimes near Brighton — December 2025**
 ```
 https://data.police.uk/api/crimes-street/all-crime?lat=50.8229&lng=-0.1363&date=2024-09
 ```
